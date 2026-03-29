@@ -203,12 +203,12 @@ TextureImporter:
       name: Diamond_0
       rect:
         serializedVersion: 2
-        x: 1
-        y: 1791
-        width: 125
-        height: 121
+        x: 2
+        y: 1792
+        width: 123
+        height: 119
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -225,12 +225,12 @@ TextureImporter:
       name: Diamond_1
       rect:
         serializedVersion: 2
-        x: 129
-        y: 1791
-        width: 126
-        height: 120
+        x: 130
+        y: 1792
+        width: 124
+        height: 118
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -247,12 +247,12 @@ TextureImporter:
       name: Diamond_2
       rect:
         serializedVersion: 2
-        x: 1
-        y: 1663
-        width: 126
-        height: 119
+        x: 2
+        y: 1664
+        width: 124
+        height: 117
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -269,12 +269,12 @@ TextureImporter:
       name: Diamond_3
       rect:
         serializedVersion: 2
-        x: 130
-        y: 1663
-        width: 124
-        height: 119
+        x: 131
+        y: 1664
+        width: 122
+        height: 117
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -291,12 +291,12 @@ TextureImporter:
       name: Diamond_4
       rect:
         serializedVersion: 2
-        x: 3
-        y: 1535
-        width: 123
-        height: 119
+        x: 4
+        y: 1536
+        width: 121
+        height: 117
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -313,12 +313,12 @@ TextureImporter:
       name: Diamond_5
       rect:
         serializedVersion: 2
-        x: 130
-        y: 1535
-        width: 124
-        height: 118
+        x: 131
+        y: 1536
+        width: 122
+        height: 116
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -335,12 +335,12 @@ TextureImporter:
       name: Diamond_6
       rect:
         serializedVersion: 2
-        x: 2
-        y: 1407
-        width: 125
-        height: 118
+        x: 3
+        y: 1408
+        width: 123
+        height: 116
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -357,12 +357,12 @@ TextureImporter:
       name: Diamond_7
       rect:
         serializedVersion: 2
-        x: 130
-        y: 1407
-        width: 126
-        height: 118
+        x: 131
+        y: 1408
+        width: 124
+        height: 116
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -379,12 +379,12 @@ TextureImporter:
       name: Diamond_8
       rect:
         serializedVersion: 2
-        x: 4
-        y: 1283
-        width: 124
-        height: 114
+        x: 5
+        y: 1284
+        width: 122
+        height: 112
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -401,12 +401,12 @@ TextureImporter:
       name: Diamond_9
       rect:
         serializedVersion: 2
-        x: 132
-        y: 1284
-        width: 124
-        height: 113
+        x: 133
+        y: 1285
+        width: 123
+        height: 111
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -423,12 +423,12 @@ TextureImporter:
       name: Diamond_10
       rect:
         serializedVersion: 2
-        x: 4
-        y: 1155
-        width: 125
-        height: 115
+        x: 5
+        y: 1156
+        width: 123
+        height: 113
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -445,12 +445,12 @@ TextureImporter:
       name: Diamond_11
       rect:
         serializedVersion: 2
-        x: 131
-        y: 1157
-        width: 125
-        height: 113
+        x: 132
+        y: 1158
+        width: 124
+        height: 111
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -467,12 +467,12 @@ TextureImporter:
       name: Diamond_12
       rect:
         serializedVersion: 2
-        x: 2
-        y: 1029
-        width: 126
-        height: 113
+        x: 3
+        y: 1030
+        width: 124
+        height: 111
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -489,12 +489,12 @@ TextureImporter:
       name: Diamond_13
       rect:
         serializedVersion: 2
-        x: 130
-        y: 1029
-        width: 126
-        height: 113
+        x: 131
+        y: 1030
+        width: 124
+        height: 111
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -511,12 +511,12 @@ TextureImporter:
       name: Diamond_14
       rect:
         serializedVersion: 2
-        x: 1
-        y: 901
-        width: 127
-        height: 112
+        x: 2
+        y: 902
+        width: 125
+        height: 110
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -533,12 +533,12 @@ TextureImporter:
       name: Diamond_15
       rect:
         serializedVersion: 2
-        x: 129
-        y: 897
-        width: 127
-        height: 116
+        x: 130
+        y: 898
+        width: 125
+        height: 114
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -555,12 +555,12 @@ TextureImporter:
       name: Diamond_16
       rect:
         serializedVersion: 2
-        x: 1
-        y: 768
-        width: 127
-        height: 117
+        x: 2
+        y: 769
+        width: 125
+        height: 115
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -577,12 +577,12 @@ TextureImporter:
       name: Diamond_17
       rect:
         serializedVersion: 2
-        x: 129
-        y: 768
-        width: 127
-        height: 117
+        x: 130
+        y: 769
+        width: 125
+        height: 115
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -599,12 +599,12 @@ TextureImporter:
       name: Diamond_18
       rect:
         serializedVersion: 2
-        x: 1
-        y: 640
-        width: 127
-        height: 117
+        x: 2
+        y: 641
+        width: 125
+        height: 115
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -621,12 +621,12 @@ TextureImporter:
       name: Diamond_19
       rect:
         serializedVersion: 2
-        x: 129
-        y: 641
-        width: 127
-        height: 115
+        x: 130
+        y: 642
+        width: 126
+        height: 113
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -643,12 +643,12 @@ TextureImporter:
       name: Diamond_20
       rect:
         serializedVersion: 2
-        x: 2
-        y: 515
-        width: 127
-        height: 114
+        x: 3
+        y: 516
+        width: 125
+        height: 112
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -665,12 +665,12 @@ TextureImporter:
       name: Diamond_21
       rect:
         serializedVersion: 2
-        x: 130
-        y: 516
-        width: 126
-        height: 114
+        x: 131
+        y: 517
+        width: 124
+        height: 112
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -687,12 +687,12 @@ TextureImporter:
       name: Diamond_22
       rect:
         serializedVersion: 2
-        x: 3
-        y: 391
-        width: 126
-        height: 111
+        x: 4
+        y: 392
+        width: 124
+        height: 109
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -709,12 +709,12 @@ TextureImporter:
       name: Diamond_23
       rect:
         serializedVersion: 2
-        x: 131
-        y: 388
-        width: 125
-        height: 114
+        x: 132
+        y: 389
+        width: 124
+        height: 112
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -731,12 +731,12 @@ TextureImporter:
       name: Diamond_24
       rect:
         serializedVersion: 2
-        x: 3
-        y: 258
-        width: 126
-        height: 116
+        x: 4
+        y: 259
+        width: 124
+        height: 114
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -753,12 +753,12 @@ TextureImporter:
       name: Diamond_25
       rect:
         serializedVersion: 2
-        x: 130
-        y: 256
-        width: 126
-        height: 119
+        x: 131
+        y: 257
+        width: 125
+        height: 117
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -775,12 +775,12 @@ TextureImporter:
       name: Diamond_26
       rect:
         serializedVersion: 2
-        x: 2
-        y: 127
-        width: 127
-        height: 120
+        x: 3
+        y: 128
+        width: 125
+        height: 118
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -797,12 +797,12 @@ TextureImporter:
       name: Diamond_27
       rect:
         serializedVersion: 2
-        x: 129
-        y: 128
-        width: 124
-        height: 119
+        x: 130
+        y: 129
+        width: 122
+        height: 117
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -819,12 +819,12 @@ TextureImporter:
       name: Diamond_28
       rect:
         serializedVersion: 2
-        x: 2
-        y: 0
-        width: 122
-        height: 120
+        x: 3
+        y: 1
+        width: 120
+        height: 118
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -841,12 +841,12 @@ TextureImporter:
       name: Diamond_29
       rect:
         serializedVersion: 2
-        x: 129
+        x: 130
         y: 0
-        width: 125
-        height: 120
+        width: 123
+        height: 119
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -863,7 +863,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 2309659534ad8014481fdf546b472f06
     internalID: 0
     vertices: []
     indices: 
@@ -871,7 +871,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Diamond_0: 3244622203517571467
       Diamond_1: 3922489011588170803
